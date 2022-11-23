@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es5",                               
+    "module": "commonjs",                       
+    "sourceMap": true,                                   
+    "outDir": "dist",                                   
+    "esModuleInterop": true,                       
+    "forceConsistentCasingInFileNames": true,          
+    "strict": true,                                     
+    "skipLibCheck": true,
+    "allowJs": true,
+    "strictPropertyInitialization": false,
+    "lib" : [
+      "ES2021.String"
+    ]
+  }
+}
